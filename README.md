@@ -7,5 +7,5 @@ as of February of 2023, based upon on his achievments on-court.
 
 ## Detailed Walkthough
 1) Combined over 50 files of data into one master frame. 
-2) Cleaned the data using tidyverse, dplyr, tibble, purrr, lubridate
-3) Created stunning visualizations to showcase Djokovic's dominance in the sport
+2) Cleaned the data using tidyverse, dplyr, tibble, purrr, lubridate.
+3) Created stunning visualizations to showcase Djokovic's dominance in the sport.
